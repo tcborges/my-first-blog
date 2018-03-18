@@ -25,8 +25,7 @@ SECRET_KEY = 'to-z5tf3k+4zfp8w7w*4yjh$ns@sd&54t$o$$90$ir$^v2wti9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = ['127.0.0.1', 'tcborges.pythonanywhere.com']
 
 # Application definition
 
